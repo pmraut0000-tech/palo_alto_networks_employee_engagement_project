@@ -1,0 +1,501 @@
+Employee_ID,Department,Role_Level,Tenure_Years,Work_Mode,Weekly_Hours,Manager_Support,Recognition,Career_Growth,Work_Life_Balance,Psychological_Safety,Compensation_Satisfaction,Engagement_Score,Satisfaction_Score,Burnout_Score,Absence_Days_Last_12M,Intent_to_Stay,Burnout_Risk,Engagement_Level
+EMP1001,Sales,Manager,4.0,Remote,44.8,3,3,3,5,2,5,3.78,2.79,1.75,2,4.53,Low,High
+EMP1002,Operations,Individual Contributor,1.0,Hybrid,53.9,3,4,5,1,1,3,2.4,3.03,4.27,7,2.54,High,Low
+EMP1003,HR,Individual Contributor,5.2,Remote,50.7,2,1,3,2,5,1,2.76,2.76,2.72,7,3.38,Moderate,Moderate
+EMP1004,Customer Success,Manager,7.3,Hybrid,52.5,1,5,4,4,4,4,3.09,3.56,3.51,7,3.1,High,Moderate
+EMP1005,Engineering,Manager,3.4,Remote,35.4,1,4,3,1,3,5,2.35,2.88,2.65,5,4.03,Moderate,Low
+EMP1006,Engineering,Individual Contributor,4.8,Remote,55.8,4,2,5,3,4,4,3.85,3.59,2.67,6,4.61,Moderate,High
+EMP1007,Engineering,Senior Manager,4.1,On-site,39.7,4,2,1,1,4,1,2.5,2.09,3.55,4,2.67,High,Low
+EMP1008,IT,Manager,1.4,Remote,46.3,2,2,5,4,5,5,3.44,3.19,2.6,4,3.67,Moderate,Moderate
+EMP1009,Finance,Senior Manager,7.1,Hybrid,44.0,5,4,1,5,2,4,2.14,3.31,1.92,1,3.57,Low,Low
+EMP1010,HR,Manager,3.4,Remote,38.9,1,4,2,5,3,4,2.54,2.79,2.61,2,3.27,Moderate,Low
+EMP1011,Engineering,Individual Contributor,5.7,Hybrid,35.1,4,4,5,4,2,5,4.01,4.41,1.21,2,4.31,Low,High
+EMP1012,Operations,Individual Contributor,6.7,Hybrid,32.8,1,1,5,2,4,1,2.71,2.03,3.03,2,3.48,Moderate,Moderate
+EMP1013,IT,Senior Manager,2.3,Hybrid,45.8,2,1,4,2,1,4,2.22,2.3,3.24,2,2.7,Moderate,Low
+EMP1014,Engineering,Manager,2.5,Remote,34.3,2,2,3,5,4,3,2.86,3.01,2.05,2,4.59,Low,Moderate
+EMP1015,Engineering,Individual Contributor,2.8,Remote,37.1,5,3,1,5,2,5,4.45,3.38,1.0,3,5.0,Low,High
+EMP1016,Engineering,Individual Contributor,8.0,Remote,43.5,5,2,1,4,4,2,2.95,3.13,1.88,5,2.74,Low,Moderate
+EMP1017,Sales,Individual Contributor,1.6,Remote,30.0,2,5,4,2,1,2,2.94,2.75,2.45,5,2.96,Moderate,Moderate
+EMP1018,Customer Success,Manager,8.9,Hybrid,50.5,4,1,4,5,5,1,2.88,3.67,2.84,5,2.73,Moderate,Moderate
+EMP1019,Sales,Director,4.1,On-site,30.0,1,4,3,2,2,3,1.91,2.68,2.84,1,2.36,Moderate,Low
+EMP1020,Engineering,Individual Contributor,4.3,On-site,44.5,3,1,3,5,4,4,3.55,3.66,1.95,6,3.55,Low,Moderate
+EMP1021,Finance,Individual Contributor,6.5,Hybrid,45.1,5,4,5,1,2,2,3.85,3.07,3.21,4,3.88,Moderate,High
+EMP1022,Engineering,Individual Contributor,3.8,Hybrid,48.8,3,5,2,3,5,1,3.08,2.74,3.43,6,3.11,High,Moderate
+EMP1023,Engineering,Director,7.2,Hybrid,44.7,4,5,3,1,4,3,2.61,2.85,2.82,7,3.64,Moderate,Low
+EMP1024,Sales,Manager,2.3,Remote,59.1,5,1,4,5,4,3,3.68,3.46,2.56,7,4.04,Moderate,Moderate
+EMP1025,Sales,Manager,8.8,On-site,46.5,3,4,3,3,2,1,2.83,2.68,1.87,4,3.56,Low,Moderate
+EMP1026,Marketing,Individual Contributor,2.5,Hybrid,52.4,4,5,1,3,2,1,2.8,2.27,2.96,6,4.04,Moderate,Moderate
+EMP1027,Engineering,Individual Contributor,9.0,Hybrid,39.9,1,2,2,5,1,4,2.01,3.21,1.49,3,3.75,Low,Low
+EMP1028,Customer Success,Individual Contributor,2.5,Remote,45.8,4,2,5,5,5,1,3.75,3.62,1.95,5,4.32,Low,High
+EMP1029,Customer Success,Individual Contributor,2.8,Hybrid,55.8,5,4,1,2,1,4,2.52,3.54,4.05,7,2.7,High,Low
+EMP1030,Engineering,Manager,1.5,Hybrid,43.3,2,1,1,5,4,4,2.18,3.11,1.05,5,3.31,Low,Low
+EMP1031,Finance,Manager,1.9,On-site,46.3,1,5,2,4,2,5,3.24,2.81,3.6,6,3.63,High,Moderate
+EMP1032,Engineering,Director,3.4,Hybrid,51.9,3,1,5,5,4,3,3.54,3.58,2.39,6,4.42,Low,Moderate
+EMP1033,Engineering,Director,4.2,Hybrid,39.8,5,2,4,4,4,3,3.71,3.09,1.87,3,4.89,Low,High
+EMP1034,Operations,Individual Contributor,6.8,On-site,30.0,2,5,5,5,3,3,3.51,3.84,1.31,6,4.78,Low,Moderate
+EMP1035,Operations,Manager,3.0,Remote,46.8,4,1,3,2,3,5,2.92,2.91,1.99,3,3.57,Low,Moderate
+EMP1036,Marketing,Senior Manager,4.7,Hybrid,51.9,2,3,1,4,4,4,2.93,2.49,2.48,3,3.66,Moderate,Moderate
+EMP1037,Sales,Manager,4.0,Remote,35.5,5,4,3,1,2,4,4.04,3.85,3.66,5,3.93,High,High
+EMP1038,Engineering,Individual Contributor,5.0,Hybrid,49.7,5,4,4,4,4,1,4.15,4.01,1.83,4,5.0,Low,High
+EMP1039,HR,Individual Contributor,2.1,On-site,49.7,2,3,3,2,3,5,2.58,3.42,2.45,4,4.22,Moderate,Low
+EMP1040,Sales,Individual Contributor,2.3,Remote,30.0,4,2,5,4,2,1,2.84,3.41,1.74,3,3.9,Low,Moderate
+EMP1041,Engineering,Senior Manager,2.1,On-site,38.4,2,5,3,5,4,5,3.43,3.43,1.9,6,4.97,Low,Moderate
+EMP1042,Customer Success,Individual Contributor,7.7,Remote,42.2,5,4,4,5,5,1,4.09,3.74,1.52,2,5.0,Low,High
+EMP1043,Engineering,Individual Contributor,8.8,On-site,43.7,5,3,4,2,5,2,3.35,3.3,2.45,3,3.91,Moderate,Moderate
+EMP1044,IT,Individual Contributor,2.2,Hybrid,39.8,3,3,4,3,4,3,3.57,2.62,2.7,4,3.97,Moderate,Moderate
+EMP1045,Engineering,Individual Contributor,2.3,Hybrid,39.4,3,2,5,5,2,3,2.11,3.26,1.76,6,3.75,Low,Low
+EMP1046,Finance,Individual Contributor,5.5,Remote,56.7,1,2,4,1,4,4,2.84,2.4,4.06,7,2.82,High,Moderate
+EMP1047,Sales,Individual Contributor,9.5,On-site,44.2,5,1,1,2,4,2,2.8,2.59,3.13,5,4.05,Moderate,Moderate
+EMP1048,Customer Success,Individual Contributor,10.8,Hybrid,40.1,3,4,4,4,3,3,4.05,4.49,1.69,1,5.0,Low,High
+EMP1049,Customer Success,Individual Contributor,2.1,Remote,44.7,2,1,3,4,5,4,3.47,3.17,1.14,3,3.99,Low,Moderate
+EMP1050,Engineering,Manager,2.6,Hybrid,48.8,4,3,3,1,3,2,2.51,2.69,3.63,9,2.46,High,Low
+EMP1051,Operations,Individual Contributor,4.3,Remote,45.4,2,5,3,5,3,3,3.72,3.3,3.81,6,3.14,High,High
+EMP1052,Marketing,Manager,4.5,On-site,43.6,4,5,5,2,4,1,3.62,3.64,2.65,3,4.29,Moderate,Moderate
+EMP1053,Operations,Individual Contributor,3.1,Remote,40.4,3,2,3,1,3,5,1.93,2.49,3.03,2,2.67,Moderate,Low
+EMP1054,IT,Individual Contributor,1.8,Hybrid,40.4,1,5,5,5,5,2,3.83,4.36,1.91,3,4.82,Low,High
+EMP1055,Customer Success,Manager,3.4,Hybrid,40.8,2,5,5,2,3,4,3.16,3.37,3.71,4,3.83,High,Moderate
+EMP1056,Operations,Individual Contributor,10.8,Remote,47.4,2,5,4,4,5,2,3.66,3.28,2.52,4,4.92,Moderate,Moderate
+EMP1057,Engineering,Individual Contributor,2.3,Remote,38.0,2,3,1,2,3,4,3.14,2.85,2.58,6,3.47,Moderate,Moderate
+EMP1058,Engineering,Individual Contributor,4.2,Remote,47.8,4,5,4,3,5,2,4.06,3.3,3.06,2,3.36,Moderate,High
+EMP1059,Engineering,Manager,15.0,Hybrid,54.9,3,5,4,2,3,4,3.02,3.73,3.23,9,4.45,Moderate,Moderate
+EMP1060,Sales,Individual Contributor,2.3,Remote,47.3,2,5,5,3,3,3,3.89,3.96,2.27,3,3.77,Low,High
+EMP1061,Sales,Manager,5.7,Hybrid,42.4,2,1,5,2,2,1,2.42,2.12,3.51,6,2.06,High,Low
+EMP1062,Engineering,Individual Contributor,11.1,Remote,35.9,1,3,3,3,5,3,2.41,3.66,1.94,1,4.61,Low,Low
+EMP1063,Marketing,Individual Contributor,5.3,Remote,56.0,1,2,3,4,5,1,1.94,2.76,2.62,2,3.54,Moderate,Low
+EMP1064,Sales,Individual Contributor,7.4,Hybrid,36.8,3,1,4,5,5,3,3.06,3.8,2.79,1,4.06,Moderate,Moderate
+EMP1065,Engineering,Individual Contributor,6.2,Remote,50.9,3,4,2,3,1,3,3.0,3.25,3.16,5,3.47,Moderate,Moderate
+EMP1066,Customer Success,Individual Contributor,5.1,On-site,49.5,5,3,2,3,3,2,3.0,3.67,3.01,5,3.58,Moderate,Moderate
+EMP1067,Engineering,Individual Contributor,8.6,On-site,43.3,1,3,3,4,5,5,3.34,3.52,2.47,7,3.68,Moderate,Moderate
+EMP1068,Marketing,Individual Contributor,5.6,Hybrid,43.2,5,4,2,3,1,4,2.58,3.62,2.1,5,3.69,Low,Low
+EMP1069,Engineering,Senior Manager,3.1,Hybrid,32.2,4,4,3,1,2,4,3.43,3.6,2.83,3,3.89,Moderate,Moderate
+EMP1070,Operations,Individual Contributor,3.9,On-site,47.3,5,4,5,4,5,4,3.67,4.04,2.37,4,3.71,Low,Moderate
+EMP1071,Marketing,Individual Contributor,4.6,Remote,49.3,2,2,4,1,5,1,2.35,1.65,2.96,4,2.36,Moderate,Low
+EMP1072,Engineering,Manager,2.6,Remote,37.4,5,5,1,4,1,4,3.49,3.4,2.29,3,3.1,Low,Moderate
+EMP1073,Engineering,Individual Contributor,4.1,Remote,43.9,3,3,4,3,3,4,2.79,2.68,2.39,4,3.51,Low,Moderate
+EMP1074,Marketing,Individual Contributor,3.7,Hybrid,45.3,4,5,3,1,2,2,3.24,2.63,2.56,4,3.62,Moderate,Moderate
+EMP1075,HR,Manager,5.5,Remote,49.1,2,5,3,3,5,3,3.07,3.41,2.21,7,4.71,Low,Moderate
+EMP1076,HR,Senior Manager,13.0,Hybrid,45.0,5,4,4,4,3,4,3.49,3.97,2.42,6,4.38,Moderate,Moderate
+EMP1077,Marketing,Individual Contributor,4.2,On-site,33.6,4,2,3,3,2,5,3.7,3.3,1.87,3,4.0,Low,Moderate
+EMP1078,Engineering,Senior Manager,9.6,On-site,41.3,4,1,2,1,4,4,2.81,2.34,3.57,8,2.86,High,Moderate
+EMP1079,Sales,Individual Contributor,5.4,Hybrid,46.6,2,2,2,1,4,1,2.33,2.18,3.25,3,3.02,Moderate,Low
+EMP1080,Engineering,Individual Contributor,4.1,Remote,50.9,5,5,3,3,2,1,3.8,2.69,2.48,3,3.97,Moderate,High
+EMP1081,IT,Individual Contributor,2.5,Hybrid,40.7,4,2,3,2,1,1,1.14,1.42,2.88,3,2.43,Moderate,Low
+EMP1082,Finance,Director,4.1,Hybrid,60.3,4,4,2,4,2,4,3.57,3.32,2.62,2,4.11,Moderate,Moderate
+EMP1083,Sales,Individual Contributor,3.9,Remote,31.7,1,1,3,4,2,2,1.74,2.59,2.07,6,3.0,Low,Low
+EMP1084,Engineering,Individual Contributor,2.0,Remote,41.1,4,4,3,3,1,5,2.98,3.51,2.77,7,3.47,Moderate,Moderate
+EMP1085,Sales,Individual Contributor,2.2,On-site,44.4,1,1,4,2,1,4,2.24,1.85,3.46,3,2.31,High,Low
+EMP1086,Sales,Individual Contributor,4.6,Hybrid,43.6,5,5,1,1,3,2,2.84,2.76,3.57,6,2.69,High,Moderate
+EMP1087,HR,Individual Contributor,9.5,Hybrid,36.4,5,1,2,5,3,2,3.37,3.32,3.01,3,3.24,Moderate,Moderate
+EMP1088,Finance,Individual Contributor,3.4,On-site,48.1,5,1,4,5,1,4,3.32,3.7,2.79,7,4.74,Moderate,Moderate
+EMP1089,IT,Individual Contributor,0.9,Hybrid,47.6,3,1,1,3,4,4,2.7,2.61,3.42,3,3.11,High,Low
+EMP1090,Sales,Individual Contributor,0.3,Hybrid,45.3,5,2,3,2,4,2,2.98,3.21,4.03,7,3.09,High,Moderate
+EMP1091,Engineering,Individual Contributor,1.5,Hybrid,47.3,4,2,3,2,2,2,2.14,1.88,2.5,4,2.66,Moderate,Low
+EMP1092,HR,Individual Contributor,5.8,Remote,42.0,2,5,4,4,5,2,3.33,3.08,2.34,2,4.05,Low,Moderate
+EMP1093,Marketing,Individual Contributor,1.1,Hybrid,33.7,1,1,3,1,2,4,1.85,1.56,2.63,2,3.14,Moderate,Low
+EMP1094,Customer Success,Individual Contributor,6.4,Hybrid,40.0,3,3,5,2,2,2,3.75,3.4,3.24,4,4.16,Moderate,High
+EMP1095,Marketing,Senior Manager,5.6,Hybrid,46.1,5,5,4,5,5,1,5.0,4.3,2.06,6,5.0,Low,High
+EMP1096,Customer Success,Individual Contributor,3.3,On-site,46.1,5,1,1,1,1,4,1.95,2.47,2.74,2,2.66,Moderate,Low
+EMP1097,Customer Success,Individual Contributor,2.0,Hybrid,45.3,2,1,4,1,4,1,2.33,1.52,3.21,3,2.59,Moderate,Low
+EMP1098,Sales,Individual Contributor,2.9,Hybrid,48.8,2,2,2,3,2,3,2.13,2.68,3.73,6,2.47,High,Low
+EMP1099,Engineering,Individual Contributor,4.6,Hybrid,40.9,3,5,4,2,5,4,3.9,4.23,1.81,5,4.73,Low,High
+EMP1100,Engineering,Individual Contributor,1.1,Hybrid,45.2,1,1,3,3,3,3,2.36,2.59,2.54,4,3.78,Moderate,Low
+EMP1101,Engineering,Individual Contributor,8.9,Hybrid,49.0,5,1,3,2,2,2,2.92,2.65,2.51,1,3.67,Moderate,Moderate
+EMP1102,Finance,Individual Contributor,4.5,Remote,44.4,3,5,5,4,4,2,2.57,3.95,2.56,4,4.5,Moderate,Low
+EMP1103,Sales,Individual Contributor,4.9,Hybrid,36.3,4,3,5,3,1,5,3.62,3.83,3.01,5,3.88,Moderate,Moderate
+EMP1104,Customer Success,Individual Contributor,5.5,Remote,38.3,4,5,5,3,2,2,3.42,3.85,1.24,2,4.19,Low,Moderate
+EMP1105,IT,Individual Contributor,8.4,Hybrid,50.8,3,5,1,5,2,3,2.74,3.48,2.76,0,3.83,Moderate,Moderate
+EMP1106,Engineering,Individual Contributor,4.1,Hybrid,54.7,5,3,5,3,5,2,4.4,3.71,2.32,4,4.59,Low,High
+EMP1107,Sales,Individual Contributor,5.8,Hybrid,53.2,3,5,1,2,3,4,3.6,2.64,3.95,4,3.4,High,Moderate
+EMP1108,Marketing,Individual Contributor,2.0,On-site,46.6,5,1,5,5,3,2,3.95,3.52,2.01,2,4.47,Low,High
+EMP1109,Engineering,Individual Contributor,10.8,Hybrid,36.6,2,5,1,3,1,5,2.39,3.05,2.66,5,3.12,Moderate,Low
+EMP1110,Engineering,Manager,3.9,Hybrid,45.0,3,3,4,3,4,2,2.76,2.96,2.63,1,3.56,Moderate,Moderate
+EMP1111,Engineering,Individual Contributor,2.0,Hybrid,55.9,5,4,4,4,1,3,2.21,3.34,3.69,6,3.44,High,Low
+EMP1112,Engineering,Manager,2.5,Hybrid,49.3,3,5,3,3,2,3,3.22,3.12,4.19,11,3.66,High,Moderate
+EMP1113,Operations,Individual Contributor,0.5,Remote,43.5,3,2,1,1,2,2,2.16,2.28,2.56,6,2.79,Moderate,Low
+EMP1114,Marketing,Individual Contributor,2.5,Remote,49.4,5,1,2,5,3,3,3.17,3.39,1.77,5,4.2,Low,Moderate
+EMP1115,Finance,Manager,0.2,Hybrid,36.1,5,1,3,1,4,3,3.44,2.81,2.52,0,4.41,Moderate,Moderate
+EMP1116,IT,Senior Manager,6.1,Hybrid,40.1,1,2,4,5,5,5,2.87,3.79,1.61,3,3.96,Low,Moderate
+EMP1117,Marketing,Individual Contributor,4.8,Remote,37.4,3,2,1,4,4,4,2.84,3.05,2.51,3,3.29,Moderate,Moderate
+EMP1118,Engineering,Individual Contributor,1.5,Remote,48.3,4,5,5,3,2,5,3.85,3.31,3.49,1,4.11,High,High
+EMP1119,IT,Manager,3.4,Remote,50.0,3,2,2,3,5,1,2.73,2.82,2.5,5,3.74,Moderate,Moderate
+EMP1120,Customer Success,Manager,3.5,On-site,43.9,3,4,4,3,4,5,4.29,3.98,2.15,2,4.27,Low,High
+EMP1121,Marketing,Individual Contributor,1.3,Remote,38.9,5,3,3,5,4,2,3.73,3.69,1.46,6,3.92,Low,High
+EMP1122,IT,Individual Contributor,3.0,Hybrid,44.9,3,2,1,3,5,4,2.83,3.38,2.58,2,3.76,Moderate,Moderate
+EMP1123,Sales,Individual Contributor,3.6,Remote,41.6,3,2,2,1,2,2,1.66,2.51,3.26,4,2.45,Moderate,Low
+EMP1124,Engineering,Individual Contributor,2.9,Hybrid,39.4,4,4,1,3,4,1,3.56,3.0,1.0,5,3.64,Low,Moderate
+EMP1125,Engineering,Individual Contributor,2.0,Remote,47.4,5,1,5,4,5,4,3.46,3.8,1.67,5,4.09,Low,Moderate
+EMP1126,Sales,Individual Contributor,1.5,Remote,39.7,3,1,3,1,2,3,1.97,1.95,2.76,1,3.02,Moderate,Low
+EMP1127,Marketing,Individual Contributor,2.8,Hybrid,34.0,2,5,1,3,5,5,4.1,3.77,1.61,3,4.61,Low,High
+EMP1128,IT,Manager,2.2,Remote,35.6,1,4,4,3,5,2,3.35,2.19,1.0,7,4.73,Low,Moderate
+EMP1129,Engineering,Individual Contributor,5.3,Remote,33.8,4,3,3,2,4,1,3.01,2.68,1.08,3,3.08,Low,Moderate
+EMP1130,Customer Success,Individual Contributor,8.7,Remote,46.7,3,3,4,5,2,3,3.29,3.6,1.77,5,4.82,Low,Moderate
+EMP1131,Sales,Manager,6.6,Remote,46.1,2,4,1,1,4,5,2.29,2.02,3.19,3,2.6,Moderate,Low
+EMP1132,Engineering,Senior Manager,3.7,Remote,45.7,3,3,3,2,1,3,2.47,2.67,2.95,12,2.92,Moderate,Low
+EMP1133,Engineering,Individual Contributor,2.1,Remote,49.1,3,1,4,4,1,5,2.72,3.66,2.59,1,3.02,Moderate,Moderate
+EMP1134,Sales,Individual Contributor,6.5,Hybrid,53.3,5,3,5,5,2,4,4.1,3.61,3.04,2,4.33,Moderate,High
+EMP1135,Operations,Individual Contributor,5.5,Hybrid,40.9,5,3,5,1,5,3,3.2,4.3,2.94,7,3.2,Moderate,Moderate
+EMP1136,Sales,Individual Contributor,8.3,Hybrid,47.8,5,4,1,3,4,3,3.6,2.88,2.63,2,4.17,Moderate,Moderate
+EMP1137,Customer Success,Individual Contributor,4.1,Remote,33.9,2,4,3,1,4,3,3.3,2.91,2.65,3,3.0,Moderate,Moderate
+EMP1138,HR,Individual Contributor,10.4,On-site,54.7,3,3,2,3,2,4,2.67,2.87,2.89,4,2.7,Moderate,Low
+EMP1139,Sales,Individual Contributor,4.1,Hybrid,36.3,1,2,3,5,2,1,2.55,2.35,1.75,1,2.94,Low,Low
+EMP1140,Operations,Individual Contributor,2.1,Remote,40.0,4,4,5,3,1,5,3.76,3.33,1.6,4,4.06,Low,High
+EMP1141,Operations,Individual Contributor,2.4,Hybrid,40.8,5,5,4,4,3,3,3.81,4.5,1.9,8,5.0,Low,High
+EMP1142,Engineering,Individual Contributor,5.1,Remote,34.3,5,5,2,3,2,4,3.04,3.67,2.43,4,4.59,Moderate,Moderate
+EMP1143,Customer Success,Individual Contributor,2.2,Remote,45.2,3,1,1,4,3,1,1.81,2.83,3.27,6,2.53,Moderate,Low
+EMP1144,Sales,Individual Contributor,10.4,Hybrid,46.5,3,3,2,5,2,5,3.29,2.96,2.34,5,3.78,Low,Moderate
+EMP1145,Engineering,Individual Contributor,4.8,On-site,43.7,2,2,1,5,5,4,2.99,3.05,2.41,3,3.9,Moderate,Moderate
+EMP1146,Engineering,Senior Manager,3.6,Hybrid,34.2,2,1,2,1,5,5,3.17,2.74,1.0,2,3.99,Low,Moderate
+EMP1147,Finance,Individual Contributor,3.9,Hybrid,58.9,5,3,1,4,1,3,3.22,3.0,3.0,9,3.76,Moderate,Moderate
+EMP1148,Customer Success,Individual Contributor,2.9,On-site,48.8,3,4,1,4,1,1,2.69,2.57,2.67,1,3.29,Moderate,Low
+EMP1149,Engineering,Manager,0.7,Remote,63.4,1,5,2,2,3,4,2.8,2.6,5.0,6,2.42,High,Moderate
+EMP1150,Engineering,Individual Contributor,2.4,Remote,39.4,4,2,2,2,2,1,1.89,3.05,2.84,7,2.43,Moderate,Low
+EMP1151,IT,Individual Contributor,9.6,Hybrid,51.7,3,5,1,2,4,3,3.15,2.84,3.49,0,3.36,High,Moderate
+EMP1152,Engineering,Individual Contributor,4.2,Hybrid,50.5,3,4,5,3,1,1,2.95,1.69,3.48,8,3.24,High,Moderate
+EMP1153,Engineering,Individual Contributor,7.1,Hybrid,43.0,2,3,2,2,4,1,1.89,2.19,2.88,7,2.4,Moderate,Low
+EMP1154,Customer Success,Manager,7.2,On-site,54.9,4,4,3,4,4,2,4.12,3.92,3.68,3,3.13,High,High
+EMP1155,Operations,Individual Contributor,3.4,Hybrid,42.2,5,4,4,3,2,1,3.86,2.81,1.17,3,4.25,Low,High
+EMP1156,Engineering,Individual Contributor,5.6,Hybrid,42.5,3,5,1,5,3,5,2.97,3.25,2.23,3,4.48,Low,Moderate
+EMP1157,Finance,Individual Contributor,0.8,Remote,30.0,5,2,1,1,2,4,2.29,2.3,2.83,3,3.52,Moderate,Low
+EMP1158,Marketing,Individual Contributor,9.1,Hybrid,47.9,3,4,4,2,1,2,2.47,2.25,2.27,3,2.97,Low,Low
+EMP1159,Engineering,Individual Contributor,8.6,On-site,35.7,5,5,5,5,4,4,4.97,4.49,1.9,4,5.0,Low,High
+EMP1160,HR,Individual Contributor,5.0,Hybrid,41.1,4,2,4,4,2,4,3.54,3.88,1.86,7,4.67,Low,Moderate
+EMP1161,Sales,Individual Contributor,4.3,Remote,37.8,2,3,2,1,2,3,2.16,2.75,3.05,8,3.67,Moderate,Low
+EMP1162,Finance,Director,3.5,Hybrid,42.4,4,3,4,5,2,3,3.62,2.65,1.7,3,3.36,Low,Moderate
+EMP1163,Finance,Individual Contributor,7.7,Remote,48.1,1,1,1,1,1,2,1.0,1.05,4.31,3,1.0,High,Low
+EMP1164,Customer Success,Individual Contributor,6.0,Remote,45.1,2,5,4,2,3,3,3.31,3.16,2.92,4,2.77,Moderate,Moderate
+EMP1165,Engineering,Individual Contributor,2.7,Remote,50.0,4,2,3,4,2,3,2.97,3.22,3.23,4,3.14,Moderate,Moderate
+EMP1166,IT,Individual Contributor,1.3,Hybrid,53.9,1,4,2,1,1,3,1.59,2.7,4.34,4,2.77,High,Low
+EMP1167,Sales,Individual Contributor,1.1,Hybrid,42.4,3,3,4,5,4,4,3.07,3.06,1.61,2,3.75,Low,Moderate
+EMP1168,Engineering,Individual Contributor,7.6,Remote,41.7,3,2,1,2,5,2,2.59,1.34,2.84,6,2.17,Moderate,Low
+EMP1169,Engineering,Individual Contributor,3.4,Hybrid,51.7,5,5,2,2,1,4,3.36,4.06,2.91,3,4.12,Moderate,Moderate
+EMP1170,Customer Success,Individual Contributor,5.0,Hybrid,52.3,2,1,1,5,5,5,2.21,3.5,2.65,7,3.54,Moderate,Low
+EMP1171,Finance,Individual Contributor,3.7,Hybrid,50.2,3,3,5,5,2,4,3.59,3.57,2.51,6,3.62,Moderate,Moderate
+EMP1172,Engineering,Senior Manager,1.1,Remote,38.3,2,2,3,1,2,5,2.46,2.67,3.52,5,2.71,High,Low
+EMP1173,Customer Success,Individual Contributor,0.8,Hybrid,48.0,3,2,5,3,1,1,2.35,2.7,3.39,4,3.01,Moderate,Low
+EMP1174,Engineering,Individual Contributor,2.5,Hybrid,45.8,5,2,3,2,5,1,3.43,2.7,2.54,4,4.03,Moderate,Moderate
+EMP1175,Finance,Individual Contributor,2.7,Remote,52.4,4,5,4,1,2,5,3.44,3.6,3.18,4,3.5,Moderate,Moderate
+EMP1176,Engineering,Director,2.7,Remote,41.0,5,5,2,5,4,5,4.41,4.48,1.03,2,4.9,Low,High
+EMP1177,HR,Individual Contributor,2.7,Hybrid,33.3,1,5,4,1,3,4,3.14,3.67,2.84,5,4.67,Moderate,Moderate
+EMP1178,Sales,Individual Contributor,12.4,On-site,49.8,3,4,3,5,3,5,3.92,4.27,2.21,6,4.44,Low,High
+EMP1179,Operations,Director,7.0,Hybrid,30.0,1,2,3,4,2,2,2.7,3.04,1.0,4,4.16,Low,Low
+EMP1180,Engineering,Manager,4.2,Hybrid,39.9,1,3,3,5,5,1,3.11,2.26,1.32,4,4.13,Low,Moderate
+EMP1181,Sales,Manager,3.3,Hybrid,37.8,2,5,1,5,2,1,2.39,2.38,3.01,6,2.18,Moderate,Low
+EMP1182,Engineering,Individual Contributor,3.4,Hybrid,37.8,3,5,2,5,5,5,3.73,4.16,1.33,4,4.75,Low,High
+EMP1183,Operations,Individual Contributor,5.9,Remote,39.8,1,2,4,3,4,3,2.28,2.01,3.18,2,2.01,Moderate,Low
+EMP1184,IT,Individual Contributor,3.3,Hybrid,53.5,4,5,4,5,5,3,4.43,4.69,2.24,4,4.86,Low,High
+EMP1185,Engineering,Senior Manager,6.6,On-site,50.7,1,4,5,2,2,5,3.59,3.44,4.29,4,4.03,High,Moderate
+EMP1186,Finance,Individual Contributor,4.5,Hybrid,43.2,4,4,3,2,4,2,3.14,2.91,3.27,1,2.94,Moderate,Moderate
+EMP1187,Marketing,Individual Contributor,12.5,On-site,52.9,2,5,3,1,1,3,2.66,2.37,3.47,5,2.18,High,Low
+EMP1188,Customer Success,Individual Contributor,3.2,Hybrid,37.6,1,2,3,3,3,5,2.3,3.38,1.47,4,4.68,Low,Low
+EMP1189,Customer Success,Manager,7.4,Remote,36.6,5,2,4,1,2,2,2.97,2.46,1.52,3,3.26,Low,Moderate
+EMP1190,Engineering,Individual Contributor,1.4,On-site,51.0,2,2,5,2,2,2,3.11,3.06,3.06,0,2.83,Moderate,Moderate
+EMP1191,Engineering,Individual Contributor,2.1,Remote,49.1,4,1,1,2,2,4,2.65,2.4,4.19,8,3.42,High,Low
+EMP1192,IT,Individual Contributor,11.5,Hybrid,41.8,2,5,2,4,4,2,2.41,3.26,2.13,3,3.07,Low,Low
+EMP1193,IT,Individual Contributor,6.4,Remote,37.1,1,2,1,5,1,3,2.22,2.27,2.38,8,3.83,Low,Low
+EMP1194,Finance,Individual Contributor,5.0,Remote,55.2,3,4,4,2,5,3,3.84,4.25,4.03,10,4.01,High,High
+EMP1195,Sales,Individual Contributor,14.5,Hybrid,33.0,3,3,3,1,1,5,2.68,2.45,2.77,8,3.79,Moderate,Low
+EMP1196,Sales,Individual Contributor,3.4,Remote,40.8,4,3,2,1,4,5,3.48,2.95,2.76,5,3.81,Moderate,Moderate
+EMP1197,HR,Individual Contributor,7.4,Hybrid,46.6,4,2,4,5,2,2,2.84,2.7,2.7,6,3.88,Moderate,Moderate
+EMP1198,IT,Individual Contributor,7.7,Hybrid,57.6,3,3,4,5,3,1,3.25,2.7,3.14,4,3.0,Moderate,Moderate
+EMP1199,IT,Individual Contributor,9.9,Remote,47.7,4,3,4,4,2,4,3.98,3.93,2.58,5,4.07,Moderate,High
+EMP1200,Marketing,Individual Contributor,1.3,Remote,48.4,2,1,2,3,5,1,2.86,2.86,2.44,3,2.6,Moderate,Moderate
+EMP1201,Finance,Individual Contributor,3.4,Hybrid,41.0,5,4,2,1,3,2,3.27,3.11,2.75,2,4.14,Moderate,Moderate
+EMP1202,Engineering,Individual Contributor,4.5,Remote,49.0,5,4,5,5,2,2,3.54,3.92,2.97,1,4.21,Moderate,Moderate
+EMP1203,Engineering,Individual Contributor,9.8,Hybrid,45.7,2,1,5,1,3,1,1.83,1.8,4.31,4,1.64,High,Low
+EMP1204,IT,Individual Contributor,4.9,Hybrid,33.9,5,1,1,5,1,4,2.85,3.48,1.8,3,3.2,Low,Moderate
+EMP1205,Finance,Individual Contributor,7.7,Hybrid,50.6,1,3,2,2,4,1,2.26,1.58,3.81,11,2.5,High,Low
+EMP1206,Engineering,Director,1.2,Hybrid,51.8,2,5,2,1,2,5,2.65,2.24,3.91,4,3.48,High,Low
+EMP1207,Engineering,Individual Contributor,2.8,Hybrid,50.6,4,3,2,2,5,3,2.9,2.96,2.89,1,3.38,Moderate,Moderate
+EMP1208,Finance,Manager,8.6,Hybrid,45.2,2,1,5,1,1,5,2.62,1.91,3.78,3,2.35,High,Low
+EMP1209,Engineering,Individual Contributor,3.1,Remote,38.3,3,4,4,3,2,3,3.21,2.63,3.12,3,2.96,Moderate,Moderate
+EMP1210,Engineering,Manager,3.6,Remote,30.0,4,3,3,4,1,2,3.01,3.69,1.28,9,4.87,Low,Moderate
+EMP1211,Customer Success,Manager,9.7,Hybrid,46.1,3,5,5,2,5,4,4.29,3.23,2.01,6,4.08,Low,High
+EMP1212,HR,Individual Contributor,1.7,Hybrid,52.6,4,3,2,5,2,1,2.78,2.38,2.39,1,3.2,Low,Moderate
+EMP1213,Finance,Individual Contributor,2.1,Hybrid,52.0,5,2,5,3,5,4,3.9,4.11,2.79,9,4.77,Moderate,High
+EMP1214,Engineering,Individual Contributor,1.1,Hybrid,50.7,2,3,1,1,3,1,2.4,1.73,4.08,6,2.67,High,Low
+EMP1215,HR,Individual Contributor,9.9,On-site,44.5,1,1,2,2,5,5,2.18,2.55,2.42,4,3.01,Moderate,Low
+EMP1216,Engineering,Senior Manager,7.0,On-site,52.6,4,4,1,1,3,5,2.77,2.2,2.1,3,3.08,Low,Moderate
+EMP1217,Sales,Manager,6.8,Hybrid,51.5,4,4,2,1,2,1,3.06,2.6,3.23,2,3.92,Moderate,Moderate
+EMP1218,HR,Director,2.7,Remote,42.0,3,1,5,1,3,4,2.63,2.78,2.9,7,2.76,Moderate,Low
+EMP1219,Finance,Individual Contributor,1.0,Hybrid,49.7,5,2,4,4,2,1,3.14,3.61,1.99,4,3.99,Low,Moderate
+EMP1220,IT,Manager,0.7,Hybrid,41.2,3,1,3,4,2,2,2.33,2.36,1.99,4,2.63,Low,Low
+EMP1221,Finance,Senior Manager,8.6,Hybrid,48.8,3,3,1,5,4,5,2.54,3.91,2.88,2,4.16,Moderate,Low
+EMP1222,Customer Success,Individual Contributor,5.3,Hybrid,35.9,5,1,5,2,2,2,2.98,3.54,2.35,1,3.65,Low,Moderate
+EMP1223,Engineering,Individual Contributor,6.0,Hybrid,36.4,1,1,4,3,3,5,2.21,2.75,2.69,4,2.83,Moderate,Low
+EMP1224,Sales,Manager,4.3,Hybrid,52.4,3,2,5,3,4,5,3.73,4.11,2.84,3,4.51,Moderate,High
+EMP1225,Engineering,Individual Contributor,1.9,Remote,51.6,3,3,1,3,4,3,3.32,2.23,2.58,5,2.83,Moderate,Moderate
+EMP1226,Engineering,Manager,2.8,Hybrid,49.4,4,5,3,1,2,2,1.96,2.87,3.19,2,3.2,Moderate,Low
+EMP1227,Operations,Individual Contributor,1.5,Remote,45.6,5,5,5,4,5,2,4.32,4.71,2.38,2,4.67,Low,High
+EMP1228,Sales,Manager,1.3,On-site,30.0,2,4,2,2,5,3,3.18,3.01,1.22,5,3.62,Low,Moderate
+EMP1229,IT,Individual Contributor,6.6,Remote,44.5,1,1,4,1,4,4,1.46,3.46,4.19,3,2.11,High,Low
+EMP1230,Finance,Individual Contributor,0.8,Remote,48.2,1,4,5,4,2,2,3.52,3.17,3.34,4,3.31,Moderate,Moderate
+EMP1231,Marketing,Individual Contributor,1.5,Remote,41.3,5,2,4,4,5,1,3.89,3.33,1.57,3,4.25,Low,High
+EMP1232,Customer Success,Manager,3.0,Hybrid,40.0,4,5,2,2,2,3,3.53,4.1,3.1,2,3.49,Moderate,Moderate
+EMP1233,Customer Success,Individual Contributor,3.8,Hybrid,55.1,4,1,3,2,2,2,2.21,3.11,4.16,5,2.89,High,Low
+EMP1234,Customer Success,Individual Contributor,1.0,Remote,44.6,5,2,3,2,4,4,3.24,2.78,2.41,2,3.14,Moderate,Moderate
+EMP1235,Engineering,Individual Contributor,4.8,Remote,48.2,4,2,2,1,4,2,2.59,2.15,3.01,4,1.92,Moderate,Low
+EMP1236,HR,Manager,4.2,Hybrid,50.4,1,1,4,5,1,5,3.54,2.64,3.85,6,4.13,High,Moderate
+EMP1237,Engineering,Individual Contributor,8.5,Remote,38.0,1,2,5,2,5,1,3.33,2.76,3.77,6,3.33,High,Moderate
+EMP1238,Engineering,Manager,3.9,Hybrid,46.4,2,1,2,5,5,3,2.98,3.21,2.3,1,4.67,Low,Moderate
+EMP1239,Finance,Individual Contributor,5.2,Hybrid,54.2,5,1,1,1,5,5,3.19,3.31,2.6,6,3.32,Moderate,Moderate
+EMP1240,Engineering,Individual Contributor,2.0,Hybrid,57.7,3,3,4,5,3,4,3.87,3.09,2.73,2,4.17,Moderate,High
+EMP1241,Operations,Individual Contributor,2.0,Remote,45.3,3,4,3,3,2,5,4.3,3.14,3.41,1,4.31,High,High
+EMP1242,Operations,Individual Contributor,1.2,On-site,43.3,2,2,2,5,4,5,3.31,3.32,1.65,4,4.09,Low,Moderate
+EMP1243,IT,Manager,2.0,Hybrid,46.9,2,2,3,2,5,4,2.98,2.21,2.86,4,2.57,Moderate,Moderate
+EMP1244,Sales,Individual Contributor,2.8,Hybrid,46.7,4,3,4,1,1,5,2.85,2.83,3.5,4,3.04,High,Moderate
+EMP1245,Engineering,Individual Contributor,8.0,Remote,54.7,2,3,3,2,5,3,3.11,3.4,2.9,6,3.96,Moderate,Moderate
+EMP1246,Operations,Senior Manager,1.7,Hybrid,38.0,2,3,2,3,2,2,2.04,1.68,3.17,5,2.8,Moderate,Low
+EMP1247,Sales,Individual Contributor,12.9,Remote,43.0,3,5,4,2,2,5,3.64,4.1,3.32,5,4.0,Moderate,Moderate
+EMP1248,Operations,Individual Contributor,5.5,Hybrid,37.2,4,5,1,2,4,3,2.58,3.46,3.41,6,3.7,High,Low
+EMP1249,Operations,Senior Manager,4.8,On-site,37.9,2,5,2,2,3,2,2.54,2.36,3.11,2,3.39,Moderate,Low
+EMP1250,IT,Individual Contributor,3.7,Hybrid,47.6,2,1,5,4,4,2,3.35,2.76,2.14,2,3.59,Low,Moderate
+EMP1251,Engineering,Individual Contributor,3.2,Remote,50.7,4,2,2,3,5,5,3.65,3.87,3.02,4,3.35,Moderate,Moderate
+EMP1252,Sales,Senior Manager,2.2,Remote,40.5,5,4,4,2,1,3,3.07,2.96,3.21,4,3.49,Moderate,Moderate
+EMP1253,IT,Individual Contributor,1.0,Hybrid,50.4,4,1,2,2,4,5,2.9,2.82,3.6,3,2.81,High,Moderate
+EMP1254,Sales,Individual Contributor,1.8,Remote,52.8,3,2,1,2,3,4,2.93,2.53,2.95,4,3.35,Moderate,Moderate
+EMP1255,Engineering,Individual Contributor,9.9,Remote,58.5,5,2,1,1,4,2,2.16,1.63,3.08,2,3.21,Moderate,Low
+EMP1256,Customer Success,Manager,5.3,Hybrid,45.5,1,3,5,4,2,5,2.58,2.84,2.25,1,3.69,Low,Low
+EMP1257,Operations,Individual Contributor,9.9,Hybrid,40.5,4,3,3,1,5,2,2.76,2.75,3.49,5,3.68,High,Moderate
+EMP1258,HR,Individual Contributor,2.2,Remote,38.0,3,1,4,4,5,3,3.36,3.55,2.27,5,3.6,Low,Moderate
+EMP1259,Customer Success,Senior Manager,1.5,On-site,37.3,5,3,4,2,5,1,2.99,2.92,1.63,4,4.4,Low,Moderate
+EMP1260,Engineering,Manager,3.6,Remote,53.7,4,2,3,3,5,5,4.09,3.64,2.96,2,4.91,Moderate,High
+EMP1261,Finance,Individual Contributor,1.9,On-site,34.4,2,3,1,5,5,5,2.88,2.79,1.56,2,3.87,Low,Moderate
+EMP1262,Operations,Individual Contributor,4.2,Remote,53.5,4,5,1,5,5,2,3.8,3.85,1.9,5,5.0,Low,High
+EMP1263,Engineering,Individual Contributor,0.8,On-site,38.9,1,3,2,2,1,3,1.62,2.09,3.07,6,2.15,Moderate,Low
+EMP1264,Customer Success,Manager,0.4,Hybrid,40.2,4,2,5,1,3,4,3.23,3.4,2.89,5,3.45,Moderate,Moderate
+EMP1265,IT,Individual Contributor,4.6,Hybrid,43.9,5,1,5,3,5,3,3.12,3.96,3.29,4,4.04,Moderate,Moderate
+EMP1266,HR,Individual Contributor,10.1,On-site,40.1,5,4,5,4,3,5,4.79,4.49,1.64,7,5.0,Low,High
+EMP1267,HR,Manager,4.8,Remote,51.5,4,3,2,2,5,4,2.95,3.09,2.05,5,3.47,Low,Moderate
+EMP1268,HR,Manager,5.2,On-site,57.7,5,2,5,3,4,3,3.34,4.21,2.51,6,4.48,Moderate,Moderate
+EMP1269,Sales,Individual Contributor,3.7,Hybrid,40.4,2,4,3,3,5,1,4.13,2.82,1.91,7,4.41,Low,High
+EMP1270,Engineering,Manager,4.0,Hybrid,42.0,4,4,2,4,2,2,3.29,2.93,2.09,4,3.61,Low,Moderate
+EMP1271,Marketing,Individual Contributor,1.0,Remote,43.9,2,5,3,3,1,3,3.17,2.8,2.41,4,3.75,Moderate,Moderate
+EMP1272,Marketing,Manager,1.9,Hybrid,48.8,2,4,2,1,4,3,2.87,2.49,3.85,3,3.27,High,Moderate
+EMP1273,IT,Individual Contributor,7.9,Remote,43.9,3,2,5,1,4,1,2.66,2.53,2.4,5,3.09,Low,Low
+EMP1274,IT,Individual Contributor,2.8,Hybrid,54.7,4,2,3,1,2,5,2.25,3.18,3.69,8,3.2,High,Low
+EMP1275,Customer Success,Manager,7.8,Hybrid,53.0,5,3,3,3,5,2,3.55,3.07,3.83,8,3.03,High,Moderate
+EMP1276,Customer Success,Individual Contributor,3.9,Hybrid,36.7,2,3,3,1,1,3,1.7,1.85,3.34,5,2.09,Moderate,Low
+EMP1277,Marketing,Individual Contributor,4.1,Hybrid,48.6,3,3,2,4,4,4,2.85,3.54,2.86,1,4.14,Moderate,Moderate
+EMP1278,Finance,Manager,2.8,Hybrid,55.6,4,4,4,3,1,3,2.49,3.2,4.41,5,3.1,High,Low
+EMP1279,HR,Manager,5.8,Remote,41.5,4,4,5,5,4,2,4.13,4.35,2.56,6,3.71,Moderate,High
+EMP1280,Marketing,Individual Contributor,6.7,Remote,42.9,1,5,3,3,5,3,3.95,3.24,2.97,5,3.79,Moderate,High
+EMP1281,IT,Manager,1.8,Remote,41.3,1,3,4,4,4,1,3.07,2.46,2.28,4,3.77,Low,Moderate
+EMP1282,Sales,Individual Contributor,1.0,Remote,41.5,2,1,5,5,4,3,3.23,3.63,2.11,6,4.15,Low,Moderate
+EMP1283,Sales,Individual Contributor,0.6,Remote,33.3,1,5,5,3,3,3,3.22,3.68,2.29,7,4.32,Low,Moderate
+EMP1284,Engineering,Individual Contributor,5.1,Remote,35.7,2,1,3,1,5,4,1.29,2.82,2.36,5,2.95,Low,Low
+EMP1285,Customer Success,Individual Contributor,4.7,On-site,45.5,5,4,3,2,2,1,2.85,3.09,2.95,4,3.39,Moderate,Moderate
+EMP1286,Engineering,Senior Manager,15.0,Hybrid,55.6,2,5,2,2,2,1,1.72,2.09,3.95,12,2.2,High,Low
+EMP1287,Sales,Individual Contributor,3.8,Remote,40.7,1,5,4,1,5,3,3.2,3.3,2.29,1,4.39,Low,Moderate
+EMP1288,Customer Success,Individual Contributor,3.3,Hybrid,40.5,5,2,4,2,2,4,3.14,3.13,3.46,3,3.72,High,Moderate
+EMP1289,Engineering,Individual Contributor,4.3,Remote,56.9,1,4,3,2,5,3,2.55,2.92,3.87,8,3.12,High,Low
+EMP1290,Customer Success,Senior Manager,4.5,Hybrid,37.2,2,4,5,1,2,3,2.89,3.83,2.82,2,3.81,Moderate,Moderate
+EMP1291,Engineering,Individual Contributor,3.1,Hybrid,33.4,3,5,3,1,3,2,2.97,2.9,2.65,7,3.29,Moderate,Moderate
+EMP1292,Engineering,Individual Contributor,1.9,Hybrid,39.2,4,4,5,3,2,2,4.12,3.19,2.9,2,3.89,Moderate,High
+EMP1293,Marketing,Individual Contributor,3.6,Hybrid,40.4,1,5,5,3,4,4,3.85,3.35,1.81,4,4.84,Low,High
+EMP1294,Sales,Individual Contributor,3.5,On-site,32.8,2,2,3,1,5,5,3.04,2.93,2.36,9,4.11,Low,Moderate
+EMP1295,Engineering,Individual Contributor,3.5,On-site,44.1,5,5,1,4,1,2,2.63,3.36,1.77,7,3.57,Low,Low
+EMP1296,Customer Success,Manager,6.2,Hybrid,51.6,1,4,4,2,1,5,2.16,2.94,5.0,5,2.43,High,Low
+EMP1297,Marketing,Senior Manager,3.6,Hybrid,36.0,1,4,5,3,5,1,3.47,2.66,2.35,4,3.99,Low,Moderate
+EMP1298,Engineering,Individual Contributor,1.1,Hybrid,45.6,4,5,5,2,3,2,3.55,3.16,2.22,6,4.21,Low,Moderate
+EMP1299,Finance,Manager,2.1,Remote,47.8,2,5,1,5,2,2,2.83,2.78,4.64,5,2.93,High,Moderate
+EMP1300,Engineering,Senior Manager,3.1,Hybrid,44.4,3,5,2,1,3,4,3.42,2.92,2.84,4,3.16,Moderate,Moderate
+EMP1301,Engineering,Manager,3.7,Remote,46.3,5,3,1,4,1,5,2.42,3.56,2.43,4,3.08,Moderate,Low
+EMP1302,Customer Success,Individual Contributor,5.1,Hybrid,46.4,2,4,1,5,5,2,3.73,3.33,2.21,2,4.69,Low,High
+EMP1303,Customer Success,Individual Contributor,3.7,Hybrid,39.3,5,4,5,5,5,2,4.92,5.0,1.07,6,5.0,Low,High
+EMP1304,Finance,Individual Contributor,0.5,Remote,55.5,1,3,4,5,3,4,2.22,2.76,3.24,1,2.3,Moderate,Low
+EMP1305,HR,Individual Contributor,1.2,On-site,53.7,4,5,1,1,3,4,4.08,3.19,2.31,3,4.21,Low,High
+EMP1306,Operations,Manager,5.4,On-site,53.3,4,2,2,3,2,5,3.08,3.22,3.76,8,3.67,High,Moderate
+EMP1307,Customer Success,Senior Manager,3.0,Hybrid,52.1,3,5,3,1,4,1,2.76,1.86,2.84,5,2.02,Moderate,Moderate
+EMP1308,Sales,Senior Manager,3.9,Hybrid,34.0,4,5,1,3,4,1,3.35,3.3,1.68,5,3.69,Low,Moderate
+EMP1309,Marketing,Individual Contributor,2.7,On-site,51.5,1,3,1,5,2,3,1.86,2.65,3.4,4,2.68,Moderate,Low
+EMP1310,Engineering,Individual Contributor,2.1,Remote,49.6,3,4,2,5,4,2,3.57,3.54,2.33,3,3.85,Low,Moderate
+EMP1311,Sales,Director,2.8,Hybrid,34.2,2,5,4,4,1,5,2.94,2.88,2.15,4,3.78,Low,Moderate
+EMP1312,Engineering,Manager,4.0,Remote,43.5,4,4,1,3,4,2,3.99,2.79,1.87,6,4.86,Low,High
+EMP1313,Engineering,Individual Contributor,3.5,Hybrid,46.9,3,1,1,5,2,5,2.69,2.61,3.65,6,2.58,High,Low
+EMP1314,Operations,Senior Manager,6.7,Remote,56.7,1,4,4,2,4,5,3.47,4.11,4.03,4,3.71,High,Moderate
+EMP1315,IT,Manager,0.9,On-site,50.1,5,2,2,4,5,5,3.49,4.38,1.75,2,4.43,Low,Moderate
+EMP1316,HR,Individual Contributor,1.0,On-site,38.9,5,2,1,1,3,2,2.89,2.09,2.69,3,3.27,Moderate,Moderate
+EMP1317,Sales,Individual Contributor,3.0,Remote,56.9,1,5,4,4,1,4,2.95,2.55,2.97,0,3.29,Moderate,Moderate
+EMP1318,Engineering,Individual Contributor,5.2,Hybrid,45.3,1,4,1,2,5,2,1.82,2.3,3.95,5,3.57,High,Low
+EMP1319,Engineering,Individual Contributor,6.0,On-site,43.2,5,5,3,3,5,5,4.25,4.72,2.3,3,5.0,Low,High
+EMP1320,Engineering,Individual Contributor,2.2,Hybrid,42.7,3,3,5,1,2,3,3.77,2.19,2.61,7,2.92,Moderate,High
+EMP1321,Customer Success,Manager,0.2,On-site,33.6,5,2,3,1,3,1,3.15,2.15,2.69,5,2.93,Moderate,Moderate
+EMP1322,HR,Individual Contributor,2.3,Hybrid,44.2,1,5,1,3,3,5,2.59,2.44,2.77,6,2.82,Moderate,Low
+EMP1323,Finance,Individual Contributor,4.7,Hybrid,48.5,4,3,2,4,1,3,1.98,3.31,2.07,3,2.91,Low,Low
+EMP1324,Engineering,Individual Contributor,3.5,Remote,42.3,2,5,5,5,2,4,3.31,3.69,2.57,12,3.37,Moderate,Moderate
+EMP1325,Operations,Individual Contributor,5.3,Remote,47.9,4,4,3,4,1,5,2.77,3.53,2.94,7,3.49,Moderate,Moderate
+EMP1326,HR,Senior Manager,7.8,Hybrid,38.9,4,4,4,2,4,3,2.77,3.51,3.02,1,3.2,Moderate,Moderate
+EMP1327,Customer Success,Individual Contributor,3.1,Hybrid,44.0,1,4,2,5,5,5,3.77,3.19,2.31,2,3.69,Low,High
+EMP1328,Finance,Individual Contributor,2.5,Hybrid,47.2,5,4,3,4,1,2,3.29,2.68,2.65,3,4.5,Moderate,Moderate
+EMP1329,Sales,Manager,1.7,Hybrid,46.3,3,1,4,3,5,3,4.03,3.73,2.69,5,3.95,Moderate,High
+EMP1330,Engineering,Individual Contributor,1.0,Hybrid,33.8,4,3,1,2,2,2,1.97,2.92,3.19,8,2.73,Moderate,Low
+EMP1331,Sales,Individual Contributor,0.7,On-site,41.9,5,3,4,2,4,2,3.54,3.39,2.27,5,4.41,Low,Moderate
+EMP1332,Marketing,Individual Contributor,2.0,On-site,56.7,3,4,3,2,2,3,2.21,2.92,3.95,7,2.57,High,Low
+EMP1333,Engineering,Individual Contributor,7.1,Hybrid,41.6,4,1,3,5,4,1,2.85,3.54,2.22,4,3.33,Low,Moderate
+EMP1334,Engineering,Individual Contributor,5.7,Hybrid,45.1,3,4,1,1,4,3,2.6,2.58,3.27,4,2.93,Moderate,Low
+EMP1335,Engineering,Individual Contributor,2.4,Hybrid,44.4,5,1,4,5,5,1,3.53,3.37,1.63,6,5.0,Low,Moderate
+EMP1336,Engineering,Individual Contributor,12.9,Hybrid,56.0,2,4,4,4,2,5,3.34,3.58,3.4,4,3.45,Moderate,Moderate
+EMP1337,IT,Senior Manager,2.2,On-site,54.0,5,2,1,1,2,5,3.14,3.4,3.47,4,3.08,High,Moderate
+EMP1338,HR,Individual Contributor,8.2,Remote,50.7,1,2,4,4,1,3,2.75,2.62,4.34,4,2.94,High,Moderate
+EMP1339,Sales,Individual Contributor,9.5,Remote,38.2,3,5,1,1,2,5,2.39,2.53,2.64,3,3.03,Moderate,Low
+EMP1340,Engineering,Individual Contributor,4.9,On-site,47.5,2,4,2,5,1,4,2.79,3.12,2.25,7,4.91,Low,Moderate
+EMP1341,Customer Success,Individual Contributor,2.0,Hybrid,49.0,3,3,3,2,3,2,3.1,2.88,3.17,5,3.05,Moderate,Moderate
+EMP1342,Sales,Individual Contributor,2.6,Hybrid,40.1,3,5,2,3,3,2,3.49,3.07,2.42,1,4.67,Moderate,Moderate
+EMP1343,Engineering,Individual Contributor,4.0,On-site,38.9,4,2,5,2,3,1,2.74,3.08,2.6,4,4.04,Moderate,Moderate
+EMP1344,Sales,Director,1.0,Remote,56.9,1,4,5,5,2,5,3.74,3.39,3.03,3,3.73,Moderate,High
+EMP1345,Sales,Individual Contributor,1.5,On-site,42.9,3,5,5,1,2,1,3.13,3.03,3.22,4,3.45,Moderate,Moderate
+EMP1346,Finance,Individual Contributor,1.4,Hybrid,56.3,5,4,1,2,1,2,2.14,2.55,3.6,6,2.27,High,Low
+EMP1347,Finance,Individual Contributor,5.2,Hybrid,52.0,5,2,4,5,4,2,4.16,3.46,2.83,2,3.93,Moderate,High
+EMP1348,Engineering,Director,7.7,Hybrid,47.9,4,5,2,4,1,5,3.45,3.9,2.8,1,3.86,Moderate,Moderate
+EMP1349,Sales,Individual Contributor,5.8,On-site,48.2,1,2,2,3,3,4,1.56,2.32,3.2,2,2.62,Moderate,Low
+EMP1350,Finance,Individual Contributor,6.9,Remote,35.2,1,1,2,2,1,4,1.55,1.33,3.13,3,1.59,Moderate,Low
+EMP1351,Customer Success,Individual Contributor,1.9,Hybrid,46.4,5,2,2,1,4,5,3.26,2.86,3.38,1,3.53,Moderate,Moderate
+EMP1352,IT,Manager,2.7,Hybrid,54.9,2,4,5,4,2,5,3.23,3.67,2.73,5,3.82,Moderate,Moderate
+EMP1353,Finance,Individual Contributor,2.9,Hybrid,49.8,4,3,2,5,1,1,3.27,2.97,1.95,4,4.11,Low,Moderate
+EMP1354,Engineering,Senior Manager,4.9,Hybrid,46.1,4,2,4,3,3,5,4.05,3.31,3.6,6,4.05,High,High
+EMP1355,Engineering,Individual Contributor,2.1,Remote,57.0,5,3,5,1,3,4,3.47,3.5,3.98,9,3.39,High,Moderate
+EMP1356,Finance,Individual Contributor,6.6,Remote,43.7,5,1,2,5,2,5,3.06,3.13,1.96,4,4.11,Low,Moderate
+EMP1357,Engineering,Individual Contributor,9.4,Hybrid,40.7,2,5,1,5,1,1,2.36,2.79,2.38,1,3.3,Low,Low
+EMP1358,Customer Success,Individual Contributor,5.1,Hybrid,46.1,2,5,3,2,4,1,2.81,3.27,2.81,3,3.88,Moderate,Moderate
+EMP1359,Operations,Individual Contributor,2.6,Remote,50.4,1,3,3,2,2,1,1.73,2.54,3.7,7,2.66,High,Low
+EMP1360,Customer Success,Individual Contributor,1.7,Remote,33.0,4,5,3,1,1,1,1.0,2.83,2.06,4,2.97,Low,Low
+EMP1361,Sales,Manager,1.4,On-site,47.0,4,2,5,5,5,3,4.85,4.39,2.54,4,4.84,Moderate,High
+EMP1362,Finance,Individual Contributor,0.5,Remote,50.7,5,3,2,2,3,5,3.36,2.61,3.12,6,4.02,Moderate,Moderate
+EMP1363,Sales,Individual Contributor,3.0,On-site,43.1,1,4,5,3,4,2,3.06,3.07,2.88,4,3.73,Moderate,Moderate
+EMP1364,Customer Success,Individual Contributor,2.8,Hybrid,52.7,4,2,4,3,4,5,3.81,3.58,2.44,3,3.6,Moderate,High
+EMP1365,Operations,Individual Contributor,6.3,Hybrid,49.5,1,2,1,5,4,3,2.46,2.95,2.97,1,3.01,Moderate,Low
+EMP1366,Sales,Individual Contributor,2.2,Remote,60.0,1,2,1,2,3,1,1.47,1.0,3.54,4,1.83,High,Low
+EMP1367,Operations,Individual Contributor,3.1,Remote,39.7,5,4,3,1,1,3,2.51,3.0,2.46,0,3.44,Moderate,Low
+EMP1368,IT,Individual Contributor,4.3,Hybrid,50.8,1,1,3,1,2,4,1.07,1.99,3.88,7,2.07,High,Low
+EMP1369,Engineering,Manager,5.0,Hybrid,37.9,2,5,3,1,1,4,1.97,3.09,4.48,6,2.12,High,Low
+EMP1370,Engineering,Senior Manager,5.9,Hybrid,33.7,2,3,2,3,2,5,2.16,3.52,2.42,5,3.46,Moderate,Low
+EMP1371,Engineering,Individual Contributor,4.0,Remote,30.8,3,1,4,2,4,5,3.43,2.91,1.0,2,4.17,Low,Moderate
+EMP1372,Engineering,Individual Contributor,1.1,Hybrid,48.8,5,3,4,2,1,2,3.33,2.61,2.77,2,4.03,Moderate,Moderate
+EMP1373,Engineering,Individual Contributor,4.7,Hybrid,46.3,3,5,4,3,4,2,3.16,3.43,3.08,4,3.2,Moderate,Moderate
+EMP1374,HR,Individual Contributor,2.1,Hybrid,41.6,2,4,4,1,5,4,2.12,3.87,2.28,3,3.64,Low,Low
+EMP1375,Engineering,Individual Contributor,8.0,Hybrid,32.6,3,2,3,1,4,1,2.5,2.26,2.85,5,2.74,Moderate,Low
+EMP1376,Sales,Individual Contributor,3.6,Hybrid,40.2,5,2,1,5,4,3,3.19,2.89,1.77,6,4.77,Low,Moderate
+EMP1377,IT,Manager,4.2,Hybrid,45.0,5,4,3,4,2,2,3.24,3.14,2.92,2,4.2,Moderate,Moderate
+EMP1378,Engineering,Individual Contributor,15.0,Remote,50.6,1,1,4,2,5,2,2.95,2.48,2.99,3,2.52,Moderate,Moderate
+EMP1379,Marketing,Individual Contributor,5.9,Hybrid,44.9,4,1,3,2,4,1,2.76,2.6,2.37,1,3.08,Low,Moderate
+EMP1380,Engineering,Individual Contributor,4.6,Remote,46.8,1,3,4,2,4,1,2.1,2.04,3.5,3,2.96,High,Low
+EMP1381,Engineering,Individual Contributor,3.2,Hybrid,42.4,5,4,5,4,5,5,4.16,4.45,1.92,4,5.0,Low,High
+EMP1382,HR,Individual Contributor,1.2,Hybrid,57.2,2,1,1,5,5,3,2.62,2.41,2.84,4,3.34,Moderate,Low
+EMP1383,Finance,Individual Contributor,3.0,Remote,37.9,2,4,5,4,1,1,2.43,3.28,3.3,7,3.3,Moderate,Low
+EMP1384,IT,Individual Contributor,1.7,Remote,40.1,1,5,2,1,2,2,2.09,1.65,3.57,4,2.83,High,Low
+EMP1385,HR,Manager,10.1,Remote,41.6,5,2,3,1,5,2,3.7,2.77,1.45,5,4.57,Low,Moderate
+EMP1386,Marketing,Individual Contributor,4.7,Hybrid,48.8,2,2,2,2,5,4,2.16,2.56,3.52,6,2.64,High,Low
+EMP1387,Engineering,Individual Contributor,7.8,On-site,37.7,5,2,3,3,3,1,3.08,2.24,2.47,3,2.87,Moderate,Moderate
+EMP1388,Engineering,Individual Contributor,2.1,Remote,46.0,2,4,5,2,5,5,4.17,3.39,3.58,3,3.12,High,High
+EMP1389,Marketing,Individual Contributor,1.8,On-site,46.2,5,4,4,3,2,3,3.56,4.07,2.14,2,4.32,Low,Moderate
+EMP1390,Marketing,Individual Contributor,5.6,Hybrid,40.1,3,3,4,4,4,5,4.06,3.4,2.32,5,3.46,Low,High
+EMP1391,Operations,Manager,1.7,Remote,47.3,5,2,3,1,4,2,2.93,2.45,3.02,4,3.34,Moderate,Moderate
+EMP1392,Sales,Manager,2.5,Remote,37.9,5,3,4,3,4,5,4.12,3.57,1.47,1,4.53,Low,High
+EMP1393,Sales,Manager,10.4,Hybrid,37.2,1,2,5,4,4,2,3.16,2.9,2.74,5,4.46,Moderate,Moderate
+EMP1394,Marketing,Individual Contributor,2.6,Hybrid,45.7,3,3,4,1,3,2,2.52,3.37,3.08,2,3.51,Moderate,Low
+EMP1395,Sales,Individual Contributor,0.9,Hybrid,33.4,4,3,5,3,5,2,4.72,3.55,2.41,4,4.57,Moderate,High
+EMP1396,Operations,Individual Contributor,0.6,Remote,30.0,1,5,2,2,4,2,2.88,2.43,1.86,6,2.88,Low,Moderate
+EMP1397,IT,Individual Contributor,0.8,Remote,48.7,4,3,5,2,1,2,3.55,2.62,2.43,6,3.19,Moderate,Moderate
+EMP1398,Sales,Senior Manager,8.1,Hybrid,52.3,2,4,1,2,4,4,3.22,2.68,3.24,7,3.66,Moderate,Moderate
+EMP1399,Marketing,Individual Contributor,2.3,Remote,41.7,4,3,1,4,5,5,3.75,4.15,2.14,7,4.34,Low,High
+EMP1400,Marketing,Individual Contributor,15.0,Remote,40.3,5,2,1,2,4,4,3.7,3.12,2.06,5,5.0,Low,Moderate
+EMP1401,Engineering,Individual Contributor,9.4,Remote,52.0,4,3,3,5,3,4,3.7,4.61,1.0,10,4.98,Low,Moderate
+EMP1402,IT,Individual Contributor,12.0,Hybrid,37.0,1,1,3,1,2,1,1.21,1.98,3.28,4,2.33,Moderate,Low
+EMP1403,Customer Success,Individual Contributor,7.0,On-site,35.5,1,2,3,4,2,1,2.13,2.11,2.54,2,2.35,Moderate,Low
+EMP1404,Marketing,Individual Contributor,5.4,Hybrid,50.0,4,1,5,2,5,1,2.79,2.94,3.28,6,3.68,Moderate,Moderate
+EMP1405,Sales,Individual Contributor,1.8,On-site,45.1,1,2,3,1,2,3,1.0,2.65,3.31,4,1.97,Moderate,Low
+EMP1406,IT,Senior Manager,3.5,Remote,52.5,1,4,2,3,2,1,1.74,2.07,3.24,3,2.76,Moderate,Low
+EMP1407,Sales,Manager,5.7,Hybrid,30.0,4,4,1,2,1,5,2.79,3.5,3.0,4,3.91,Moderate,Moderate
+EMP1408,Engineering,Individual Contributor,6.7,Remote,35.2,3,4,5,1,5,4,4.2,4.36,1.56,3,4.99,Low,High
+EMP1409,IT,Individual Contributor,1.3,Hybrid,45.1,3,1,1,5,5,5,2.82,3.32,1.96,4,4.65,Low,Moderate
+EMP1410,Engineering,Individual Contributor,3.0,On-site,47.9,2,5,3,3,2,1,3.13,2.66,3.19,2,3.05,Moderate,Moderate
+EMP1411,Sales,Individual Contributor,3.3,Hybrid,50.9,1,2,5,5,2,3,2.32,3.47,3.29,8,3.99,Moderate,Low
+EMP1412,Operations,Individual Contributor,3.2,Hybrid,46.2,4,4,4,1,2,3,2.69,3.33,3.31,3,2.76,Moderate,Low
+EMP1413,Operations,Individual Contributor,1.5,Hybrid,46.2,1,2,2,5,3,4,3.27,3.16,2.09,1,4.31,Low,Moderate
+EMP1414,Customer Success,Individual Contributor,11.1,Remote,42.3,5,1,3,1,4,5,3.28,2.79,3.32,4,3.33,Moderate,Moderate
+EMP1415,Finance,Individual Contributor,3.0,On-site,56.1,1,5,3,1,3,2,2.4,1.94,4.02,5,2.16,High,Low
+EMP1416,Sales,Individual Contributor,1.5,Hybrid,37.3,1,1,2,5,5,5,3.05,2.98,1.0,3,3.43,Low,Moderate
+EMP1417,Engineering,Individual Contributor,11.3,Hybrid,47.5,3,2,2,1,1,1,1.24,2.19,3.62,7,2.1,High,Low
+EMP1418,Sales,Senior Manager,9.4,Hybrid,38.1,4,5,4,2,4,2,3.49,2.87,2.61,6,3.61,Moderate,Moderate
+EMP1419,Finance,Manager,3.9,Hybrid,48.7,1,5,3,1,1,3,2.24,2.85,4.89,11,2.5,High,Low
+EMP1420,Marketing,Individual Contributor,2.4,Remote,37.7,3,1,3,4,5,4,3.85,3.69,2.13,4,4.69,Low,High
+EMP1421,Marketing,Manager,0.8,Hybrid,50.2,2,4,1,1,5,4,2.03,3.1,2.56,3,2.88,Moderate,Low
+EMP1422,Marketing,Individual Contributor,5.1,Remote,45.8,3,2,5,4,1,3,3.77,2.81,1.96,5,4.87,Low,High
+EMP1423,Engineering,Senior Manager,2.3,Hybrid,57.2,3,3,5,1,1,1,2.42,2.39,4.73,7,2.16,High,Low
+EMP1424,Customer Success,Manager,3.5,Hybrid,43.0,3,3,1,1,1,3,1.5,2.16,2.82,4,2.87,Moderate,Low
+EMP1425,Engineering,Individual Contributor,10.6,Hybrid,48.0,1,1,5,5,5,1,2.42,3.02,1.64,3,3.74,Low,Low
+EMP1426,Customer Success,Individual Contributor,2.2,Hybrid,39.5,1,2,2,2,2,2,1.9,1.92,3.54,4,2.34,High,Low
+EMP1427,Sales,Individual Contributor,4.9,Hybrid,43.0,2,2,5,2,1,3,1.87,2.51,2.9,2,2.87,Moderate,Low
+EMP1428,IT,Individual Contributor,6.0,Remote,45.7,5,1,5,3,4,1,3.17,3.29,2.95,0,3.23,Moderate,Moderate
+EMP1429,Sales,Individual Contributor,7.9,Hybrid,34.3,5,2,1,5,5,2,3.33,3.73,1.0,3,4.38,Low,Moderate
+EMP1430,Engineering,Individual Contributor,3.3,Remote,35.1,5,4,4,5,3,3,4.57,3.59,2.32,5,3.96,Low,High
+EMP1431,Engineering,Individual Contributor,3.0,Hybrid,49.2,2,1,5,2,3,4,3.26,3.56,3.78,7,3.25,High,Moderate
+EMP1432,Marketing,Manager,3.0,Remote,44.0,5,4,5,5,4,3,4.13,4.75,1.5,3,4.86,Low,High
+EMP1433,Finance,Director,4.6,Remote,40.8,5,2,4,2,2,5,3.28,3.17,1.67,2,4.48,Low,Moderate
+EMP1434,Engineering,Individual Contributor,9.2,Hybrid,39.8,3,1,1,5,1,3,1.52,2.67,3.47,3,2.41,High,Low
+EMP1435,Engineering,Individual Contributor,2.9,Remote,40.1,1,2,4,1,5,5,1.98,3.3,2.82,1,3.0,Moderate,Low
+EMP1436,HR,Individual Contributor,0.2,Hybrid,45.8,1,1,1,2,1,2,1.0,1.0,3.01,9,2.02,Moderate,Low
+EMP1437,Engineering,Individual Contributor,6.4,Remote,48.1,3,2,2,2,5,3,3.39,2.78,3.68,3,3.39,High,Moderate
+EMP1438,Marketing,Senior Manager,3.7,Remote,30.4,3,4,1,4,3,2,3.17,2.71,2.23,4,3.43,Low,Moderate
+EMP1439,HR,Individual Contributor,5.1,Hybrid,54.9,3,4,2,5,1,2,2.95,2.6,3.69,5,3.23,High,Moderate
+EMP1440,Engineering,Individual Contributor,0.8,Remote,54.4,1,2,2,5,4,1,1.78,2.42,2.89,7,2.7,Moderate,Low
+EMP1441,Engineering,Individual Contributor,2.3,Remote,30.0,5,1,1,2,2,2,2.0,2.06,3.02,1,2.44,Moderate,Low
+EMP1442,Operations,Individual Contributor,6.1,Hybrid,52.6,3,3,3,1,4,2,2.39,3.11,2.77,3,3.1,Moderate,Low
+EMP1443,Sales,Individual Contributor,1.1,Remote,52.4,2,4,1,1,2,3,2.05,1.83,3.49,5,2.91,High,Low
+EMP1444,Sales,Manager,4.9,Hybrid,45.0,3,4,5,1,1,3,2.78,3.2,3.58,9,3.03,High,Moderate
+EMP1445,Marketing,Individual Contributor,3.4,Remote,35.9,4,3,5,5,1,4,3.17,3.22,2.51,1,3.9,Moderate,Moderate
+EMP1446,Operations,Individual Contributor,1.9,Remote,52.1,3,2,3,4,2,1,2.72,2.48,3.36,4,2.46,Moderate,Moderate
+EMP1447,Operations,Individual Contributor,1.8,Hybrid,43.3,1,1,2,2,3,2,1.9,1.8,3.05,5,3.06,Moderate,Low
+EMP1448,Marketing,Senior Manager,1.5,Remote,48.8,3,2,3,3,5,1,2.63,2.64,2.48,6,3.1,Moderate,Low
+EMP1449,Sales,Manager,3.7,Remote,60.5,4,5,5,4,4,5,4.6,4.34,3.79,5,4.5,High,High
+EMP1450,Engineering,Individual Contributor,4.0,Hybrid,46.8,2,4,3,3,4,2,3.51,2.57,3.27,9,3.32,Moderate,Moderate
+EMP1451,Marketing,Individual Contributor,2.6,Remote,38.6,5,5,1,4,4,1,4.12,3.48,1.34,8,4.85,Low,High
+EMP1452,Customer Success,Individual Contributor,1.4,Hybrid,42.6,3,4,3,1,1,4,2.86,3.12,2.74,1,3.73,Moderate,Moderate
+EMP1453,Sales,Individual Contributor,4.8,Remote,39.5,4,4,2,5,4,4,3.99,3.79,1.47,3,4.62,Low,High
+EMP1454,IT,Senior Manager,6.5,Hybrid,48.0,4,5,1,3,5,2,3.31,2.68,2.2,5,2.92,Low,Moderate
+EMP1455,Engineering,Individual Contributor,5.4,On-site,39.4,2,5,4,4,5,5,4.48,4.76,2.69,6,5.0,Moderate,High
+EMP1456,Customer Success,Individual Contributor,12.3,Hybrid,41.7,1,2,5,5,2,4,2.5,2.93,2.69,8,3.27,Moderate,Low
+EMP1457,Engineering,Individual Contributor,3.1,On-site,36.0,3,5,5,3,1,4,3.85,2.98,2.74,3,4.07,Moderate,High
+EMP1458,Sales,Individual Contributor,8.6,Hybrid,44.1,4,2,3,2,5,5,3.39,2.73,2.69,2,3.95,Moderate,Moderate
+EMP1459,Engineering,Individual Contributor,2.1,On-site,46.2,2,2,1,4,3,1,2.83,2.14,2.83,4,2.94,Moderate,Moderate
+EMP1460,Engineering,Manager,1.8,Remote,30.0,5,2,4,2,1,4,3.34,3.15,1.22,6,4.51,Low,Moderate
+EMP1461,Engineering,Individual Contributor,3.9,Hybrid,46.8,4,4,1,1,1,3,2.35,2.77,3.79,8,2.49,High,Low
+EMP1462,Finance,Individual Contributor,9.9,Hybrid,44.7,2,4,5,2,5,4,3.53,3.78,2.54,4,4.29,Moderate,Moderate
+EMP1463,HR,Individual Contributor,2.8,Hybrid,39.6,1,5,1,2,3,1,2.38,2.02,2.87,7,2.91,Moderate,Low
+EMP1464,Customer Success,Individual Contributor,0.8,Hybrid,59.2,1,4,4,4,2,1,2.83,2.45,3.37,3,2.88,Moderate,Moderate
+EMP1465,Operations,Individual Contributor,6.4,Hybrid,51.7,4,5,3,1,5,2,3.32,3.56,3.3,5,3.71,Moderate,Moderate
+EMP1466,Sales,Individual Contributor,3.3,Remote,37.3,4,4,2,2,3,3,3.1,3.71,2.72,2,3.37,Moderate,Moderate
+EMP1467,Engineering,Manager,4.4,Remote,50.9,3,1,1,5,1,1,2.4,2.52,2.26,7,3.44,Low,Low
+EMP1468,IT,Individual Contributor,1.9,Hybrid,53.7,2,1,2,3,3,5,1.91,2.59,3.47,5,2.88,High,Low
+EMP1469,Engineering,Individual Contributor,3.8,Hybrid,45.9,4,5,5,2,1,3,3.73,3.69,2.83,4,4.22,Moderate,High
+EMP1470,Operations,Individual Contributor,0.9,On-site,47.5,3,4,3,1,5,3,3.47,2.84,3.83,6,3.99,High,Moderate
+EMP1471,Engineering,Individual Contributor,11.2,Hybrid,47.4,3,4,3,2,5,5,4.15,3.14,2.27,8,4.2,Low,High
+EMP1472,Operations,Senior Manager,7.3,On-site,30.4,4,2,1,3,4,4,2.68,2.68,1.16,0,3.85,Low,Low
+EMP1473,Engineering,Manager,3.7,Hybrid,43.7,1,3,3,1,4,5,2.7,2.62,3.04,2,2.66,Moderate,Low
+EMP1474,IT,Individual Contributor,6.3,Remote,43.3,2,5,1,4,4,5,3.39,3.42,1.93,3,4.85,Low,Moderate
+EMP1475,Customer Success,Individual Contributor,2.1,Remote,55.0,2,3,1,1,5,4,2.95,3.34,3.52,10,2.7,High,Moderate
+EMP1476,Operations,Individual Contributor,7.0,Hybrid,47.3,1,3,2,4,2,4,2.65,2.33,2.69,1,3.29,Moderate,Low
+EMP1477,Engineering,Individual Contributor,2.7,Hybrid,42.9,4,5,3,1,5,4,3.18,4.05,2.78,3,3.7,Moderate,Moderate
+EMP1478,Customer Success,Individual Contributor,2.6,Remote,44.4,2,4,1,3,3,4,2.83,2.63,3.37,1,3.16,Moderate,Moderate
+EMP1479,Operations,Individual Contributor,1.6,Hybrid,52.2,4,5,2,3,5,4,4.74,2.89,2.85,6,3.62,Moderate,High
+EMP1480,Customer Success,Individual Contributor,4.8,On-site,43.7,4,3,4,1,5,5,4.0,3.46,2.87,6,4.49,Moderate,High
+EMP1481,Finance,Individual Contributor,3.6,Hybrid,40.1,3,4,2,2,1,2,3.1,2.79,2.3,9,3.24,Low,Moderate
+EMP1482,HR,Manager,8.8,Hybrid,43.1,1,1,2,3,1,2,2.05,1.88,2.99,2,3.2,Moderate,Low
+EMP1483,Sales,Individual Contributor,1.4,Hybrid,51.6,4,5,1,4,1,1,3.33,2.78,2.72,5,3.2,Moderate,Moderate
+EMP1484,Finance,Individual Contributor,4.8,Remote,48.5,5,5,5,4,5,2,4.64,4.75,2.64,4,5.0,Moderate,High
+EMP1485,Customer Success,Manager,7.7,Hybrid,45.3,1,4,5,5,2,2,3.29,2.71,2.23,2,3.38,Low,Moderate
+EMP1486,IT,Individual Contributor,4.1,Hybrid,46.3,2,1,5,4,3,5,3.31,3.08,2.23,6,3.61,Low,Moderate
+EMP1487,Engineering,Manager,2.7,Remote,41.1,3,1,2,5,3,4,2.9,2.23,2.25,3,3.41,Low,Moderate
+EMP1488,Engineering,Individual Contributor,4.0,Hybrid,43.6,2,4,1,1,2,4,2.57,2.63,4.4,6,2.28,High,Low
+EMP1489,Operations,Individual Contributor,8.3,Hybrid,40.4,2,2,3,1,2,5,2.17,2.82,3.04,6,2.64,Moderate,Low
+EMP1490,IT,Manager,8.3,Hybrid,42.9,1,5,2,1,3,2,3.15,2.39,3.39,1,2.8,Moderate,Moderate
+EMP1491,Sales,Manager,3.2,On-site,54.4,2,5,2,2,4,5,2.78,2.73,4.01,7,3.06,High,Moderate
+EMP1492,Finance,Manager,8.2,Remote,37.5,4,3,1,2,1,1,2.49,1.38,2.9,3,2.71,Moderate,Low
+EMP1493,Engineering,Individual Contributor,3.5,Hybrid,40.2,2,4,4,5,1,4,3.78,2.89,2.63,3,3.9,Moderate,High
+EMP1494,Engineering,Individual Contributor,6.3,Hybrid,36.2,3,3,2,4,3,3,2.88,2.63,1.97,3,3.49,Low,Moderate
+EMP1495,Sales,Individual Contributor,5.2,On-site,34.7,3,3,4,4,2,1,2.4,3.46,2.0,3,3.97,Low,Low
+EMP1496,Sales,Individual Contributor,2.6,Remote,43.7,5,1,4,1,4,1,3.48,3.1,2.34,3,4.4,Low,Moderate
+EMP1497,Customer Success,Senior Manager,1.6,Hybrid,40.7,3,5,5,3,3,5,4.01,3.82,2.76,4,4.51,Moderate,High
+EMP1498,Engineering,Individual Contributor,7.9,Hybrid,57.3,2,3,1,2,1,2,2.17,1.94,4.2,9,2.23,High,Low
+EMP1499,Operations,Senior Manager,9.3,Remote,43.0,3,1,4,2,5,4,3.15,2.93,3.03,4,2.94,Moderate,Moderate
+EMP1500,Operations,Individual Contributor,4.7,Remote,54.0,1,4,1,1,2,3,2.68,2.03,3.74,6,1.84,High,Low

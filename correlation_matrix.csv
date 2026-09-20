@@ -1,0 +1,12 @@
+,Engagement_Score,Satisfaction_Score,Burnout_Score,Intent_to_Stay,Manager_Support,Recognition,Career_Growth,Work_Life_Balance,Psychological_Safety,Compensation_Satisfaction,Weekly_Hours
+Engagement_Score,1.0,0.65,-0.36,0.72,0.42,0.3,0.36,0.32,0.35,0.18,-0.0
+Satisfaction_Score,0.65,1.0,-0.33,0.69,0.37,0.27,0.36,0.38,0.26,0.32,-0.02
+Burnout_Score,-0.36,-0.33,1.0,-0.58,-0.22,0.05,-0.05,-0.43,-0.25,-0.02,0.46
+Intent_to_Stay,0.72,0.69,-0.58,1.0,0.34,0.2,0.27,0.42,0.31,0.2,-0.16
+Manager_Support,0.42,0.37,-0.22,0.34,1.0,-0.01,0.02,0.01,-0.0,-0.05,0.0
+Recognition,0.3,0.27,0.05,0.2,-0.01,1.0,-0.0,-0.03,-0.09,0.0,0.02
+Career_Growth,0.36,0.36,-0.05,0.27,0.02,-0.0,1.0,0.05,0.05,-0.03,-0.04
+Work_Life_Balance,0.32,0.38,-0.43,0.42,0.01,-0.03,0.05,1.0,0.05,0.03,0.03
+Psychological_Safety,0.35,0.26,-0.25,0.31,-0.0,-0.09,0.05,0.05,1.0,-0.01,0.01
+Compensation_Satisfaction,0.18,0.32,-0.02,0.2,-0.05,0.0,-0.03,0.03,-0.01,1.0,0.0
+Weekly_Hours,-0.0,-0.02,0.46,-0.16,0.0,0.02,-0.04,0.03,0.01,0.0,1.0
